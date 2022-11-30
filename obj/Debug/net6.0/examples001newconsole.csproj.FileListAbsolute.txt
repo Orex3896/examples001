@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\bin\Debug\net6.0\examples001newconsole.exe
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\bin\Debug\net6.0\examples001newconsole.deps.json
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\bin\Debug\net6.0\examples001newconsole.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\bin\Debug\net6.0\examples001newconsole.dll
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\bin\Debug\net6.0\examples001newconsole.pdb
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\obj\Debug\net6.0\examples001newconsole.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\obj\Debug\net6.0\examples001newconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\obj\Debug\net6.0\examples001newconsole.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\obj\Debug\net6.0\examples001newconsole.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\obj\Debug\net6.0\examples001newconsole.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\obj\Debug\net6.0\examples001newconsole.dll
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\obj\Debug\net6.0\refint\examples001newconsole.dll
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\obj\Debug\net6.0\examples001newconsole.pdb
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\obj\Debug\net6.0\examples001newconsole.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\examples1\examples001\examoles1\examples001newconsole\obj\Debug\net6.0\ref\examples001newconsole.dll
